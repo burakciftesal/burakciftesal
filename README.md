@@ -77,7 +77,7 @@
 
 ---
 
-## 🎮 Fun Facts
+## 🎯 Fun Facts
 
 - 💪 I follow a regular fitness routine and prioritize health and discipline
 - 🔍 I’m naturally curious and learn something new almost every day — whether in math, code, or life
