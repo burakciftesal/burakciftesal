@@ -52,9 +52,12 @@
 ## 📚 Currently Working On
 
 - 🌍 I currently work as a **Data Scientist / Data Analyst**
-- 📐 GPS triangulation and signal optimization models using numerical methods
-- 📈 Comparative studies of anomaly detection models: Autoencoders, Isolation Forest, DBSCAN
-- 📖 Preparing a public GitHub repository and paper on solving ODEs via Euler and Taylor methods
+- 📊 Applying **KMeans clustering** for pattern discovery and behavioral segmentation
+- 🖥️ Building **GUI-based data tools** using **Tkinter** to improve accessibility and interactivity of data workflows
+- 📈 Exploring and experimenting with a wider range of **machine learning models**, including **Support Vector Machines (SVM)**, **Random Forest**, **Gradient Boosting**, and **ensemble methods**
+- 🤖 Progressively diving deeper into **deep learning**, with interest in frameworks like **PyTorch** and **TensorFlow**, especially for modeling complex patterns in structured and unstructured data
+- 🧪 Conducting comparative studies in **anomaly detection**, including models like **Autoencoders**, **Isolation Forest**, and **DBSCAN**
+- 📐 Developing **GPS triangulation** and **signal optimization models** using numerical methods
 
 ---
 
