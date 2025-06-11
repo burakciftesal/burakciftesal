@@ -79,6 +79,5 @@
 
 ## 🎮 Fun Facts
 
-- 🎮 I enjoy single-player games and love modding them using Vortex
 - 💪 I follow a regular fitness routine and prioritize health and discipline
 - 🔍 I’m naturally curious and learn something new almost every day — whether in math, code, or life
