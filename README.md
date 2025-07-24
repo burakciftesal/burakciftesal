@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Burak Ciftesal!
 
+![Dynamic Title](https://readme-typing-svg.herokuapp.com?color=FF6F61&lines=Data+Scientist;Applied+Mathematician;ML+Enthusiast;Bioinformatics+Explorer;Python+Lover)
+
 🎓 I'm an **Applied Mathematics MSc graduate** with a specialization in **Applied Analysis**. I currently work as a **Data Scientist / Data Analyst**, and I’m passionate about blending mathematical rigor with real-world applications — from dynamic systems and machine learning to financial modeling and biological data analysis. My focus is on making sense of complex, messy data and turning it into meaningful insights through both theoretical and computational approaches.
 
 ---
